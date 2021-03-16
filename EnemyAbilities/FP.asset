@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dfdb47847004504cbf0ea1d6e55141b, type: 3}
+  m_Name: FP
+  m_EditorClassIdentifier: 
+  title: FP
+  cooldown: 2
+  cooldownTimer: -0.021756029
+  startingTime: 1
+  useTime: 0.1
+  damage: 1
+  chanceOfUse: 100
+  avoidances: 0100000003000000
+  obj: {fileID: 0}
